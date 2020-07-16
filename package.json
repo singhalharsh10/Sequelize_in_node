@@ -1,0 +1,15 @@
+{
+  "name": "sequelizejs",
+  "version": "1.0.0",
+  "description": "Open MYSQL Shell..\r ....shell\r $ mysql -u root\r ...",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mysql2": "^2.1.0",
+    "sequelize": "^6.3.3"
+  }
+}
